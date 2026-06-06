@@ -25,8 +25,7 @@
 <body>
     <div class="container">
         <h1>高考补报名</h1>
-        <!-- 修改这里：学校名称和官方网址 -->
-        <a class="link-item" href=" http://www.hncyyz.cn/" target="_blank">报名入口</a >
+        <a class="link-item" href="http://www.hncyyz.cn/" target="_blank">报名入口</a>
     </div>
 </body>
 </html>
